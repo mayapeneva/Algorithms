@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectedAreasInMatrix_Exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFibonacci_Lab", "RecursiveFibonacci_Lab\RecursiveFibonacci_Lab.csproj", "{45B94572-3D6C-447F-B487-05231E3A21D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema_Exer", "Cinema_Exer\Cinema_Exer.csproj", "{85B37A66-D098-452A-83D7-7ED8000A1FA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{45B94572-3D6C-447F-B487-05231E3A21D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45B94572-3D6C-447F-B487-05231E3A21D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45B94572-3D6C-447F-B487-05231E3A21D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85B37A66-D098-452A-83D7-7ED8000A1FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B37A66-D098-452A-83D7-7ED8000A1FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B37A66-D098-452A-83D7-7ED8000A1FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B37A66-D098-452A-83D7-7ED8000A1FA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
