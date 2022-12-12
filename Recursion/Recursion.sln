@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFibonacci_Lab", "R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema_Exer", "Cinema_Exer\Cinema_Exer.csproj", "{85B37A66-D098-452A-83D7-7ED8000A1FA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolTeams", "SchoolTeams\SchoolTeams.csproj", "{879D297E-BD94-4B74-931C-A56207C3699A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{85B37A66-D098-452A-83D7-7ED8000A1FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85B37A66-D098-452A-83D7-7ED8000A1FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85B37A66-D098-452A-83D7-7ED8000A1FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879D297E-BD94-4B74-931C-A56207C3699A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879D297E-BD94-4B74-931C-A56207C3699A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879D297E-BD94-4B74-931C-A56207C3699A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879D297E-BD94-4B74-931C-A56207C3699A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

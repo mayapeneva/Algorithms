@@ -15,7 +15,7 @@ public class Program
 
     private static void PrintCombinations(int[] arr, int border, int index)
     {
-        if (index == ElementsCount)
+        if (index >= ElementsCount)
         {
             Console.WriteLine(string.Join(" ", arr));
             return;
