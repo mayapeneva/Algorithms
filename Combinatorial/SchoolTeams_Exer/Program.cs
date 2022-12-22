@@ -1,4 +1,4 @@
-﻿namespace SchoolTeams
+﻿namespace SchoolTeams_Exer
 {
     using System;
     using System.Collections.Generic;
@@ -80,3 +80,4 @@
         }
     }
 }
+

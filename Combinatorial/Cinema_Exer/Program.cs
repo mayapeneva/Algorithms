@@ -41,8 +41,8 @@
                 var distributions = new string[AllFriendsCount];
                 for (int j = 0; j < AllFriendsCount; j++)
                 {
-                    distributions[j] = RequiredDistributions[j] == default 
-                        ? FriendNamesToDistribute[variationIndex++] 
+                    distributions[j] = RequiredDistributions[j] == default
+                        ? FriendNamesToDistribute[variationIndex++]
                         : RequiredDistributions[j];
                 }
 

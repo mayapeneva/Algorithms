@@ -9,7 +9,7 @@
             var n = int.Parse(Console.ReadLine());
             var k = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"{CalculateCombinations(n, k)} combinations");
+            Console.WriteLine(CalculateCombinations(n, k));
         }
 
         private static decimal CalculateCombinations(int n, int k)
@@ -19,7 +19,7 @@
                 return 0;
             }
 
-            if (k == 0 || k == n)
+            if (k == 0 ||  k == n)
             {
                 return 1;
             }
